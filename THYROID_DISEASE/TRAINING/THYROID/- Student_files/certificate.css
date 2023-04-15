@@ -1,0 +1,87 @@
+.certificate_details{
+	border: 1px solid #2d353a1a;
+	padding: 2px 18px;
+	box-shadow: 1px 1px 18px #ccc;
+	height: 240px;
+    overflow: hidden;
+}
+.company_logo_div{
+	
+}
+.company_logo{
+	width: 75px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	margin-top: 14px;
+}
+.company_name_div{
+    margin-top: 12px;	
+}
+.internship_name{
+	font-weight: 500 !important;
+	font-size: 17px;
+	text-transform: capitalize;
+	line-height: 20px;
+}
+.internship_name_div{
+    padding: 0px 5px;	
+}
+.start_date_endate{
+	font-size: 12px;
+	font-weight: 500 !important;
+	color: #3f4d678a;
+}
+.btn-certificate{
+	margin-bottom: 15px;
+	font-weight: 500;
+	font-size: 14px;
+}
+.company_name{
+	font-size: 14px;
+	font-weight: 500 !important;
+	color: #3f4d678a;
+}
+.box.box-default {
+    border-top-color: white;
+    border: 0px;
+    min-height: 600px;
+    padding: 20px 20px;
+}
+.search_div{
+	margin: 20px -14px;
+}
+.search_elements{
+	height: 50px;
+    border-radius: 3px;
+}
+.btn-search{
+	min-width: 120px;
+	font-size: 16px;
+	font-weight: 500;
+	text-transform: capitalize;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
