@@ -1,4 +1,4 @@
-# jenifer
+#thyroid disease classification using ML
 
 link for demo vedio
 
